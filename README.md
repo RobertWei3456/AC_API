@@ -17,6 +17,10 @@ Now the code can indentify from these following sound alarms:
                "smoke_alarms",
                "water_alarm"
 
+## How to use:
+1. put the *.wav file in 'wav_to_be_classified' fileholder (strongly recommend using those files in 'wav_can_be_used' fileholder)
+2. run AC_API.py, the result should show up
+
 
 ## Input:
 
